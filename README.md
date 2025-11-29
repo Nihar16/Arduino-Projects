@@ -1,3 +1,4 @@
+![Arduino-Projects](https://socialify.git.ci/Nihar16/Arduino-Projects/image?custom_description=Welcome+to+the+Arduino+Projects+Collection%2C+a+central+hub+for+organized+Arduino+projects+and+resources+for+makers+of+all+skill+levels.&description=1&font=Source+Code+Pro&language=1&name=1&pattern=Circuit+Board&theme=Auto)
 # Arduino Projects Collection
 
 Welcome to the **Arduino Projects Collection** repository! This repo serves as a central hub for all my Arduino-based projects, ranging from beginner experiments to advanced applications. Whether you're a hobbyist, student, or experienced maker, you'll find organized Arduino sketches, detailed documentation, and reference materials to inspire and accelerate your electronics journey.
